@@ -1,7 +1,6 @@
 - Hi, I’m @mononokehime14
-- I’m interested in computer networks and ML.
+- I’m interested in computer networks data management systems and ML.
 - I’m currently a year 4 Computer Engineering student at National University of Singapore.
-- Lets work together towards a world of data.
 - contact: e0324534@u.nus.edu
 
 <!---
