@@ -1,7 +1,8 @@
 - Hi, I’m @mononokehime14
-- I’m interested in computer networks data management systems and ML.
-- I’m currently a year 4 Computer Engineering student at National University of Singapore.
-- contact: e0324534@u.nus.edu
+- I like Blade Runner & Ghost in the shell. That's why I am learning Computer and Infocomm.
+- I’m am graduating from National University of Singapore (major: Computer Engineering).
+- Next phase would be CMU's Master of Mobile and IoT Engineering
+- contact: haoren@andrew.cmu.edu
 
 <!---
 mononokehime14/mononokehime14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
