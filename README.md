@@ -1,7 +1,7 @@
 - Hi, I’m @mononokehime14
 - I like Blade Runner & Ghost in the shell. That's why I am learning Computer and Infocomm.
-- I’m graduating from National University of Singapore (major: Computer Engineering).
-- Next phase would be CMU's Master of Science in Mobile and IoT Engineering
+- I graduated from National University of Singapore (Major: Computer Engineering).
+- Currently a 1st year graduate student at CMU (Major: Mobile and IoT Engineering)
 - contact: haoren@andrew.cmu.edu
 
 <!---
