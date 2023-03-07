@@ -1,7 +1,8 @@
 - Hi, I’m @mononokehime14
-- I like Blade Runner & Ghost in the shell. That's why I am learning Computer and Infocomm.
+- I like Blade Runner & Ghost in the shell. That's why I am learning Computer technology.
 - I graduated from National University of Singapore (Major: Computer Engineering).
 - Currently a 1st year graduate student at CMU (Major: Mobile and IoT Engineering)
+- Personal website: https://mononokehime14.github.io/
 - contact: haoren@andrew.cmu.edu
 
 <!---
