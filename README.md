@@ -1,13 +1,18 @@
-- Hi, I’m Hao Ren @mononokehime14
+<h2> Hi, I’m Hao Ren @mononokehime14 </h2>
+
 - I graduated from National University of Singapore (Major: Computer Engineering).
+
 - Currently graduating from CMU (Major: Mobile and IoT Engineering)
+
 - contact: haoren@andrew.cmu.edu
-- I like Blade Runner🌃 & Ghost in the shell🌆. I dream of joining this cyber future:).
 
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mononokehime14&theme=java-dark)](https://git.io/streak-stats) -->
+- I like Blade Runner:night_with_stars: & Ghost in the shell:city_sunrise:. I dream of joining this cyber future:).
+
+<h2> :microscope: Featured projects </h2>
+
+- Parallel Transformer Encoder: https://github.com/xyd18/ExtremeWeatherProject
+
+- Motion recognition system on wearable IoT: https://github.com/CG4002-AY2122S1-B02/CG4002_Capstone/tree/master
+
+<h2> :computer: Stats </h2>
 ![GitHub stats](https://github-readme-stats-chi-hazel.vercel.app/api?username=mononokehime14&show_icons=true&theme=nord&count_private=true&hide=contribs)
-
-<!---
-mononokehime14/mononokehime14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
