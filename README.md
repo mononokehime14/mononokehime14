@@ -3,7 +3,8 @@
 - I graduated from National University of Singapore (Major: Computer Engineering).
 - Currently graduating from CMU (Major: Mobile and IoT Engineering)
 - contact: haoren@andrew.cmu.edu
-- I like Blade Runner:night_with_stars: & Ghost in the shell:city_sunrise:. I dream of joining this cyber future:).
+- :night_with_stars:I like Blade Runner & Ghost in the shell:city_sunrise:. I dream of joining this cyber future :milky_way:.
+- If you want to know more about me, you can visit: https://mononokehime14.github.io/
 
 <h2> :microscope: Featured projects </h2>
 
