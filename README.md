@@ -4,7 +4,6 @@
 - Currently graduating from CMU (Major: Mobile and IoT Engineering)
 - contact: haoren@andrew.cmu.edu
 - :night_with_stars:I like Blade Runner & Ghost in the shell:city_sunrise:. I dream of joining this cyber future :milky_way:.
-- If you want to know more about me, you can visit: https://mononokehime14.github.io/
 
 <h2> :microscope: Featured projects </h2>
 
