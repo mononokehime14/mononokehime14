@@ -7,6 +7,8 @@
 
 <h2> :microscope: Featured projects </h2>
 
+- Fine-tune VALL-E-X (TTS): https://github.com/mononokehime14/VALL-E-X
+  - finetune branch: finetune; Deploy branch: deploy
 - Parallel Transformer Encoder: https://github.com/xyd18/ExtremeWeatherProject
 - Motion recognition system on wearable IoT: https://github.com/CG4002-AY2122S1-B02/CG4002_Capstone/tree/master
 
