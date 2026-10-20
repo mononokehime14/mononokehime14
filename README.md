@@ -6,10 +6,15 @@
 - :night_with_stars:I like Blade Runner & Ghost in the shell:city_sunrise:. I dream of joining this cyber future :milky_way:.
 
 <h2> :microscope: Featured projects </h2>
+
 - SpringAut: A live Knowledge Platform managed by Agent: https://github.com/mononokehime14/SprinAut
+  
 - Fine-tune VALL-E-X (TTS): https://github.com/mononokehime14/VALL-E-X
+  
   - finetune branch: finetune; Deploy branch: deploy
+  
 - Parallel Transformer Encoder: https://github.com/xyd18/ExtremeWeatherProject
+  
 - Motion recognition system on wearable IoT: https://github.com/CG4002-AY2122S1-B02/CG4002_Capstone/tree/master
 
 <h2> :computer: Stats </h2>
