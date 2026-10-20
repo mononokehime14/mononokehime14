@@ -1,12 +1,12 @@
 <h2> Hi, I’m Hao Ren @mononokehime14 </h2>
 
-- I graduated from National University of Singapore (Major: Computer Engineering).
-- Currently graduating from CMU (Major: Mobile and IoT Engineering)
-- contact: haoren@andrew.cmu.edu
+- I graduated from  CMU (Major: Mobile and IoT Engineering) and National University of Singapore (Major: Computer Engineering).
+- Currently worin in Qualcomm, busy deploy LLM to edge chipset.
+- email: renhao19971222@gmail.com
 - :night_with_stars:I like Blade Runner & Ghost in the shell:city_sunrise:. I dream of joining this cyber future :milky_way:.
 
 <h2> :microscope: Featured projects </h2>
-
+- SpringAut: A live Knowledge Platform managed by Agent: https://github.com/mononokehime14/SprinAut
 - Fine-tune VALL-E-X (TTS): https://github.com/mononokehime14/VALL-E-X
   - finetune branch: finetune; Deploy branch: deploy
 - Parallel Transformer Encoder: https://github.com/xyd18/ExtremeWeatherProject
